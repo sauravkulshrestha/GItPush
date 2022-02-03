@@ -3,6 +3,7 @@ body{
 }
 li{
     list-style: none; 
+    /* myname is saurav kulshrestha */
     margin-right: 2rem;
     font-weight: 800;
     font-size: larger;
